@@ -12,6 +12,7 @@
 		AA5F8DE7217568A400613CD9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA5F8DE5217568A400613CD9 /* Main.storyboard */; };
 		AA5F8DE9217568A400613CD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA5F8DE8217568A400613CD9 /* Assets.xcassets */; };
 		AA5F8DEC217568A400613CD9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA5F8DEA217568A400613CD9 /* LaunchScreen.storyboard */; };
+		AA7BFC882178513200D68A46 /* AdventurerDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7BFC872178513200D68A46 /* AdventurerDetailViewController.swift */; };
 		AA8DCA592176DFE3007F08F1 /* assignment6.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AA8DCA572176DFE3007F08F1 /* assignment6.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 		AA5F8DE8217568A400613CD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA5F8DEB217568A400613CD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA5F8DED217568A400613CD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA7BFC872178513200D68A46 /* AdventurerDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdventurerDetailViewController.swift; sourceTree = "<group>"; };
 		AA8DCA582176DFE3007F08F1 /* assignment6.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = assignment6.xcdatamodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				AA5F8DE1217568A400613CD9 /* AppDelegate.swift */,
+				AA7BFC872178513200D68A46 /* AdventurerDetailViewController.swift */,
 				AA8DCA572176DFE3007F08F1 /* assignment6.xcdatamodeld */,
 				AA5F8DE3217568A400613CD9 /* ViewController.swift */,
 				AA5F8DE5217568A400613CD9 /* Main.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AA8DCA592176DFE3007F08F1 /* assignment6.xcdatamodeld in Sources */,
+				AA7BFC882178513200D68A46 /* AdventurerDetailViewController.swift in Sources */,
 				AA5F8DE4217568A400613CD9 /* ViewController.swift in Sources */,
 				AA5F8DE2217568A400613CD9 /* AppDelegate.swift in Sources */,
 			);
